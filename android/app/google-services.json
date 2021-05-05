@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "65363573649",
+    "firebase_url": "https://face-n-fp-recognition.firebaseio.com",
+    "project_id": "face-n-fp-recognition",
+    "storage_bucket": "face-n-fp-recognition.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65363573649:android:f648f82a7c9c43eb9d7830",
+        "android_client_info": {
+          "package_name": "tiennguyencodeff.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65363573649-jk90r6q4thm9l8n585fdv51pj35nvp2j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tiennguyencodeff.com",
+            "certificate_hash": "ce98ccc336068d62091f8409b6c5fff2861be96d"
+          }
+        },
+        {
+          "client_id": "65363573649-lsoq788eqkrmh7p7s7pm8d2e4ho9o4g2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1VGH1OnpSUMXTGjpvzFvmchDHgXrEJyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65363573649-209okbhk66td8s1ut3jvnl71ue0pn0vp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "65363573649-80is6814179ablldqahoepbkrbu9rf46.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "tiennguyencodeff.com"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
